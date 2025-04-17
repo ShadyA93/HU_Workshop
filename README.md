@@ -20,7 +20,7 @@ Each folder contains a standalone example with comments and visualisations to he
 
 ---
 
-## 🧪 Key Learning Goals
+##  Key Learning Goals
 
 - Understand how Digital Twins go beyond simulation into real-time prediction
 - Explore how AI (LSTM, GANs, PINNs) enhances Digital Twins for monitoring & forecasting
@@ -29,7 +29,7 @@ Each folder contains a standalone example with comments and visualisations to he
 
 ---
 
-## 🛠️ How to Use
+## 🛠 How to Use
 
 1. Clone the repository:
 
