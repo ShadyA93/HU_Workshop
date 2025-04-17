@@ -1,10 +1,10 @@
-# 🚀 Digital Twin & AI Workshop – Interactive Code Examples
+# Digital Twin & AI Workshop – Interactive Code Examples
 
 Welcome to the official code repository for the **Digital Twin and AI Workshop** led by **Dr. Shady Adib**. This hands-on repo is designed to support students and early-career engineers across disciplines — including **Civil**, **Mechanical**, **Mechatronics**, and **Computer Science** — in exploring real-world applications of **Digital Twin technology**, **AI**, and **Physics-Informed Machine Learning**.
 
 ---
 
-## 🧩 What’s Inside
+##  What’s Inside
 
 Each folder contains a standalone example with comments and visualisations to help you learn, adapt, and explore further.
 
